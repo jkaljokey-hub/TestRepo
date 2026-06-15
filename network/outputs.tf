@@ -1,4 +1,4 @@
-sfsdsdsdssoutputsdds "resource_group_name" {
+sfsdsdsdqwqssoutputsdds "resource_group_name" {
   value = azurerm_resource_group.rg.name
 }
 
