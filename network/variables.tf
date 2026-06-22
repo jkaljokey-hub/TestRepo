@@ -10,6 +10,11 @@ variable "vnet_name" {}
 variable "vnet_cidr" {}
 variable "subnet_name" {}
 variable "subnet_cidr" {}
+//vnet2 web spoke
+variable "vnet_name" {}
+variable "vnet_cidr" {}
+variable "subnet_name" {}
+variable "subnet_cidr" {}
 variable "vnet2_name" {}
 variable "vnet2_cidr" {}
 variable "subnet2_name" {}
